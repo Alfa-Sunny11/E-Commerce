@@ -1,0 +1,11 @@
+*{
+      font-family: 'Roboto', sans-serif;
+}
+h5{
+      color: black;
+}
+.checkout-form input{
+      font-size: 14px;
+      padding: 5px;
+      font-weight: 400;
+}
